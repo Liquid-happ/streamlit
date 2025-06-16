@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+joblib
+tensorflow
+plotly-express
